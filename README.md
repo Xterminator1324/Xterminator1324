@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xterminator1324
 - 👀 I’m interested in game design
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me xterminator.2015@gmail.com
 
 <!---
